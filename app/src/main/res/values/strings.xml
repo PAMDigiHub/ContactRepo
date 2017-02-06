@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Contacts Repo</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_add_contact_label">New contact</string>
+    <string name="form_contact_infos_firstname_hint">First name</string>
+    <string name="form_contact_infos_lastname_hint">Last name</string>
+    <string name="form_contact_infos_email_hint">Email</string>
+    <string name="activity_add_contact_add_button_title">Add</string>
+    <string name="activity_add_contact_invalid_infos_message">All fields are required to add a contact!</string>
+
+    <string name="activity_edit_contact_delete_button_title">Delete</string>
+    <string name="activity_edit_contact_update_button_title">Update</string>
+    <string name="activity_edit_contact_invalid_infos_message">All fields are required to update a contact!</string>
+    <string name="activity_edit_contact_label">Edit contact</string>
+    <string name="activity_edit_contact_successful_delete">Contact successfully deleted!</string>
+    <string name="activity_edit_contact_delete_confirmation_message">Are you sure???</string>
+    <string name="activity_edit_contact_delete_confirmation_title">Delete contact</string>
+    <string name="activity_edit_contact_delete_confirmation_yes">Yes</string>
+    <string name="activity_edit_contact_delete_confirmation_no">Oups, no!</string>
+    <string name="content_contacts_list">Search...</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="activity_contacts_pageview_label">View Pager</string>
+</resources>
